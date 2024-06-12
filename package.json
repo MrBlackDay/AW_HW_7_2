@@ -1,0 +1,28 @@
+{
+  "name": "aw_hw_7_2",
+  "version": "1.0.0",
+  "description": "nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrBlackDay/AW_HW_7_2.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "nodeJS"
+  ],
+  "author": "Dima Lis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrBlackDay/AW_HW_7_2/issues"
+  },
+  "homepage": "https://github.com/MrBlackDay/AW_HW_7_2#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "eslint": "^9.4.0"
+  }
+}
